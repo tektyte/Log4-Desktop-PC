@@ -1,0 +1,19 @@
+{
+	"name": "USB",
+	"model_number": 0,
+	"device_class": "Power-Log-IT",
+	
+	"properties": {
+		"latest_firmware_version": "0.0.0",
+		
+		"number_of_channels": 2,
+		"channel_data_format": "I,V",
+
+		"check_sum": false,
+		
+		"max_sampling": 1000,
+		
+		"baud_rates": [115200]
+	}
+
+}
